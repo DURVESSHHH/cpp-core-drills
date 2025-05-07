@@ -1,2 +1,4 @@
-# cpp-core-drills
-Daily C++ practice to master fundamentals for game development.
+## Day 1
+- Setup complete.
+- hello.cpp: Basic hello world program.
+- calculator.cpp: Console calculator handling + - * / % and division by zero.
