@@ -22,3 +22,8 @@
 - `class_intro.cpp`: Basic class with private members and methods.
 - `dynamic_struct_array.cpp`: Creates dynamic array of structs.
 - `class_with_constructor.cpp`: Uses constructor to initialize object.
+- `inheritance_basic.cpp:` Single inheritance example
+- `multilevel_inheritance.cpp`: Demonstrates multilevel class chain
+- `access_modifiers.cpp`: Access levels in inheritance
+- `polymorphism_virtual.cpp`: Virtual function and runtime dispatch
+- `abstract_class.cpp`: Abstract base class and override
