@@ -16,5 +16,9 @@
 - `swap_with_pointers.cpp`: Swaps values using pointer-based function.
 - `reverse_array_with_pointers.cpp`: Reverses array in-place with pointers.
 - `function_pointer.cpp`: Demonstrates function pointer usage.
-
-
+## Day 5
+- dynamic_array.cpp: Allocates and deletes dynamic array.
+- struct_student.cpp: Holds and prints student data using struct.
+- class_intro.cpp: Basic class with private members and methods.
+- dynamic_struct_array.cpp: Creates dynamic array of structs.
+- class_with_constructor.cpp: Uses constructor to initialize object.
